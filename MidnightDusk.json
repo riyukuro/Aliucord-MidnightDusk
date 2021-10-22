@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Riyu#0822",
         "name": "Midnight Dusk",
-        "version": "0.1",
+        "version": "0.2",
         "updater": "https:\/\/raw.githubusercontent.com\/riyukuro\/Aliucord-MidnightDusk\/main\/MidnightDusk.json"
     },
     "background": {},
