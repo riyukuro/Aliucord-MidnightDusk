@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Riyu#0822",
         "name": "Midnight Dusk",
-        "version": "0.2",
+        "version": "0.25",
         "updater": "https:\/\/raw.githubusercontent.com\/riyukuro\/Aliucord-MidnightDusk\/main\/MidnightDusk.json"
     },
     "background": {},
@@ -23,7 +23,9 @@
         "uikit_settings_item_text_color_dark": -1,
         "primary_dark_630": -14672089,
         "primary_dark_700": -15330019,
-        "primary_dark_300": -1039243
+        "primary_dark_300": -1039243,
+        "white": -1039243,
+        "white_500": -71183
     },
     "drawable_tints": {
         "ic_channel_text": -1039243,
@@ -45,6 +47,7 @@
         "drawable_overlay_channel_pressed_dark": -1039243,
         "drawable_overlay_channels_selected_dark": 1005593717,
         "ic_sidebar_notifications_on_dark_24dp": -1039243,
-        "ic_sidebar_search_24dp": -1039243
+        "ic_sidebar_search_24dp": -1039243,
+        "drawable_bg_highlight": -1039243
     }
 }
