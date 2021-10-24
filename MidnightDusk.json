@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Riyu#0822",
         "name": "Midnight Dusk",
-        "version": "0.5",
+        "version": "0.6",
         "updater": "https:\/\/raw.githubusercontent.com\/riyukuro\/Aliucord-MidnightDusk\/main\/MidnightDusk.json"
     },
     "background": {},
@@ -27,15 +27,15 @@
         "uikit_btn_bg_color_selector_brand": -1039243,
         "uikit_btn_bg_color_selector_secondary_dark": -1039243,
         "uikit_btn_outline_color_selector_brand": -1039243,
-        "uikit_settings_item_text_color_dark": -1,
+        "uikit_settings_item_text_color_dark": -138258,
         "primary_dark_630": -14672089,
         "primary_dark_700": -15330019,
         "primary_dark_300": -1039243,
-        "white": -139541,
-        "white_500": -139541,
+        "white": -71182,
+        "white_500": -71182,
         "uikit_btn_bg_color_selector_green": -139541,
         "brand_500_alpha_20": 15737973,
-        "brand_new_530": -139541,
+        "brand_new_530": -279082,
         "color_clicked_darker": 535831669
     },
     "drawable_tints": {
@@ -60,6 +60,10 @@
         "ic_sidebar_notifications_on_dark_24dp": -1039243,
         "ic_sidebar_search_24dp": -1039243,
         "drawable_bg_highlight": -1039243,
-        "ic_status_online_16dp": -12868260
+        "ic_status_online_16dp": -12868261,
+        "ic_menu_24dp": -1039243,
+        "ic_channel_voice_locked": -1039243,
+        "ic_channel_text_locked": -1039243,
+        "ic_channel_stage_locked": -1039243
     }
 }
