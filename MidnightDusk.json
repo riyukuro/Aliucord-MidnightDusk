@@ -2,8 +2,9 @@
     "manifest": {
         "author": "Riyu#0822",
         "name": "Midnight Dusk",
-        "version": "0.7",
-        "updater": "https:\/\/raw.githubusercontent.com\/riyukuro\/Aliucord-MidnightDusk\/main\/MidnightDusk.json"
+        "version": "0.8",
+        "updater": "https:\/\/raw.githubusercontent.com\/riyukuro\/Aliucord-MidnightDusk\/main\/MidnightDusk.json",
+        "license": "AGPL-3.0"
     },
     "background": {},
     "fonts": {},
